@@ -12,5 +12,3 @@ def key_for_min_value(hash)
   end
   lowest_key
 end
-
-if lowest_value == nil || v < lowest_value
